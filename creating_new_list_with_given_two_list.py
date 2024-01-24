@@ -1,4 +1,6 @@
 #define a function for lists
+def merge_list(list1, list2):
+    result_list = []
 #create for loop
 #for loop first list
 #check if number is odd
