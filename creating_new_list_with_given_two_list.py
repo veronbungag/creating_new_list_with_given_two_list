@@ -11,6 +11,7 @@ def merge_list(list1, list2):
             
     #for loop second list
     for num in list2:
-#check if number is even
+        #check if number is even
+        if num % 2 == 0:
 #store even number to result list
 #add given lists then print once checked
