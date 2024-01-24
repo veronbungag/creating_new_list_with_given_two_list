@@ -15,6 +15,8 @@ def merge_list(list1, list2):
         if num % 2 == 0:
             #store even number to result list
             result_list.append(num)
+    #add return list
+    return result_list
 #add given lists then print once checked
 list1 = [10, 20, 25, 30, 35]
 list2 = [40, 45, 60, 75, 90]
