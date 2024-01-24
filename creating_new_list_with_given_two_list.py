@@ -6,7 +6,8 @@ def merge_list(list1, list2):
     for num in list1:
         #check if number is odd
         if num % 2 != 0:
-#store odd number to result list
+            #store odd number to result list
+            result_list.append(num)
 #for loop second list
 #check if number is even
 #store even number to result list
