@@ -2,9 +2,10 @@
 def merge_list(list1, list2):
     result_list = []
 #create for loop
-#for loop first list
+    #for loop first list
     for num in list1:
-#check if number is odd
+        #check if number is odd
+        if num % 2 != 0:
 #store odd number to result list
 #for loop second list
 #check if number is even
